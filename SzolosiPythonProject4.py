@@ -1,13 +1,3 @@
-#Aiden Szolosi 
-#Project 4 Python
-#Calculator
-#Original Code Submitted @11:58
-#Fixed up code following official due time 
-#Project Finished 11/7/22, 1:03 AM EST
-
-#NOTE: I do understand the policies related to late work and do understand that as this second attempt was submitted late, 
-#and therefore I should not expect to receive a grade based on this code; however, I wanted to show my thinking and submit just in case my 
-#changes are warranting of an exception
 
 #PATCH NOTES FROM LAST ATTEMPT
 
